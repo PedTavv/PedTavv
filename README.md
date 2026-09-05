@@ -1,19 +1,19 @@
-Welcome to my GitHub profile. I focus on the intersection of technology, data science, and medicine, with an emphasis on using computational tools to improve research workflows and healthcare outcomes.
+Welcome to my GitHub profile. I focus on the intersection of technology, data science, and medicine, using computational tools to improve clinical research workflows and reduce repetitive work.
 
-I believe software can significantly contribute to:
+I am particularly interested in:
 
-- Automating research data collection and processing to save time for deeper analysis
+- Automating research data collection and processing
 - Improving data accuracy by reducing manual errors
-- Streamlining repetitive administrative and clinical tasks
-- Exploring how AI can support diagnostics, treatment planning, and biomedical research
+- Streamlining repetitive administrative and clinical research tasks
+- Exploring practical applications of AI in research workflows
 
-Most of the repositories here are built around real-world problems in clinical research. They include:
+Most repositories here grew from real-world problems I encountered in clinical research. Projects include:
 
-- **Automation tools** using Lua with Hammerspoon for macOS to interact with REDCap and browser-based platforms
-- **Python-based data parsing** scripts to extract structured information from messy formats like PDF lab reports or REDCap exports
-- **Projects exploring large language models** (OpenAI/GPT) for summarization, workflow integration, and building lightweight research assistants
-- Custom workflow scripts for improving coordination, reporting, and EDC system interactions
+- **Lua/Hammerspoon automation** for interacting with REDCap and browser-based platforms
+- **Python data-processing tools** for extracting structured information from PDF laboratory reports and REDCap exports
+- **Large language model integrations** for summarization, workflow integration, and lightweight research assistants
+- **Custom workflow tools** for coordination, reporting, data validation, and EDC interactions
 
-These are not tutorials — they are practical examples of how scripting and automation can be applied to clinical and academic environments.
+The public repositories are de-identified versions of tools developed for my own workflows and published after patient and institutional information was removed. Much of my current development—including voice-control scripts and browser userscripts for EMR and REDCap workflows—runs within workplace systems and cannot be publicly shared, so these repositories represent a portfolio rather than a complete activity log.
 
 Thanks for visiting.
