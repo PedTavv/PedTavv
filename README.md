@@ -1,19 +1,14 @@
-Welcome to my GitHub profile. I focus on the intersection of technology, data science, and medicine, using computational tools to improve clinical research workflows and reduce repetitive work.
+Welcome to my GitHub profile.
 
-I am particularly interested in:
+I build small software tools in my spare time, mostly automation for problems I run into and find interesting to solve. Self-taught in Python, JavaScript, and Lua, and I learn most of it by picking a problem and figuring out what I need along the way.
 
-- Automating research data collection and processing
-- Improving data accuracy by reducing manual errors
-- Streamlining repetitive administrative and clinical research tasks
-- Exploring practical applications of AI in research workflows
+Things I enjoy building:
 
-Most repositories here grew from real-world problems I encountered in clinical research. Projects include:
+Automation that removes repetitive manual steps
+Parsers that pull structured data out of messy formats
+Integrations between tools I use day to day
+Experiments with language models and what they're practically good for
 
-- **Lua/Hammerspoon automation** for interacting with REDCap and browser-based platforms
-- **Python data-processing tools** for extracting structured information from PDF laboratory reports and REDCap exports
-- **Large language model integrations** for summarization, workflow integration, and lightweight research assistants
-- **Custom workflow tools** for coordination, reporting, data validation, and EDC interactions
-
-The public repositories are de-identified versions of tools developed for my own workflows and published after patient and institutional information was removed. Much of my current development—including voice-control scripts and browser userscripts for EMR and REDCap workflows—runs within workplace systems and cannot be publicly shared, so these repositories represent a portfolio rather than a complete activity log.
+These are personal projects, not tutorials or production software. Most started because I wanted to see whether I could build the thing, and the ones here are the versions worth keeping public.
 
 Thanks for visiting.
